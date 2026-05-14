@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "32b495a1aad018dcfebec7adcddab810",
+const RESOURCES = {"flutter_bootstrap.js": "765ff3938a5879e97f1e938f32bd45fc",
 "version.json": "fafbf8861ec03cac1f29c80e0f443430",
 "index.html": "a40e7616b3b1df84d6f381d7d619ed66",
 "/": "a40e7616b3b1df84d6f381d7d619ed66",
-"main.dart.js": "cbfd0cc67dca0605ea16fcd2a37db237",
+"main.dart.js": "a667e83f145324f8e4238eb928f9757e",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "7de750fb6e3585a575f9ead6a648b29d",
 "icons/Icon-192.png": "552371f7fcab5345f7f0fcb986172282",
@@ -25,7 +25,7 @@ const RESOURCES = {"flutter_bootstrap.js": "32b495a1aad018dcfebec7adcddab810",
 "assets/packages/wakelock_plus/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "56d1fbe1aa1a1bc43bcf8ebd0dffee48",
-"assets/fonts/MaterialIcons-Regular.otf": "e44680f3573ca2f4b884967c8a931005",
+"assets/fonts/MaterialIcons-Regular.otf": "84e0bb55f718bb11c916f12f481ffa14",
 "assets/assets/ui/background.png": "82afbe9aef479add8e3525e6f0919c90",
 "assets/assets/audio/music/very-slow-acoustic-guitar1.mp3": "02ee4068cd1dff23cc479b2d035d2992",
 "assets/assets/audio/music/very-slow-relaxing-acoustic-guitar1.mp3": "6920241637abb1ce0d4aaa05519c7c9c",
